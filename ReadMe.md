@@ -181,6 +181,7 @@ Running the Project
 Clone the Repository
 
 git clone https://github.com/OscarKingIn/atlascore.git
+
 cd atlascore
 
 Create Virtual Environment
